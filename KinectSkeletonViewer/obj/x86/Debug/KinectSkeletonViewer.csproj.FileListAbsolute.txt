@@ -1,0 +1,108 @@
+C:\Users\Rob\Desktop\KinectSkeletonViewer\KinectSkeletonViewer\bin\Debug\KinectSkeletonViewer.exe
+C:\Users\Rob\Desktop\KinectSkeletonViewer\KinectSkeletonViewer\bin\Debug\KinectSkeletonViewer.pdb
+C:\Users\Rob\Desktop\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer_MarkupCompile.cache
+C:\Users\Rob\Desktop\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.g.resources
+C:\Users\Rob\Desktop\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.Properties.Resources.resources
+C:\Users\Rob\Desktop\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Desktop\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.exe
+C:\Users\Rob\Desktop\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\KinectSkeletonViewer\KinectSkeletonViewer\bin\Debug\KinectSkeletonViewer.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\KinectSkeletonViewer\KinectSkeletonViewer\bin\Debug\KinectSkeletonViewer.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer_MarkupCompile.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.g.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.Properties.Resources.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\KinectSkeletonViewer\KinectSkeletonViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\04 Kinect Skeleton Viewer\KinectSkeletonViewer\bin\Debug\KinectSkeletonViewer.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\04 Kinect Skeleton Viewer\KinectSkeletonViewer\bin\Debug\KinectSkeletonViewer.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer_MarkupCompile.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.g.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.Properties.Resources.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 08 Body Tracking with Kinect\Demos\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.exe
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.pdb
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\bin\Debug\KinectSkeletonViewer.exe
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\bin\Debug\KinectSkeletonViewer.pdb
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\App.g.cs
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer_MarkupCompile.cache
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.g.resources
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.Properties.Resources.resources
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.csproj.GenerateResource.Cache
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.csprojResolveAssemblyReference.cache
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\bin\Debug\System.Net.Http.dll
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\bin\Debug\System.Web.Http.dll
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\bin\Debug\System.Net.Http.xml
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\bin\Debug\System.Web.Http.xml
+C:\Users\rober_000\04 Kinect Skeleton Viewer\KinectSkeletonViewer\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.exe
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.pdb
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\bin\Debug\KinectSkeletonViewer.exe
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\bin\Debug\KinectSkeletonViewer.pdb
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\bin\Debug\System.Net.Http.dll
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\bin\Debug\System.Web.Http.dll
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\bin\Debug\System.Net.Http.xml
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\bin\Debug\System.Web.Http.xml
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\obj\x86\Debug\App.g.cs
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer_MarkupCompile.cache
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.g.resources
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.Properties.Resources.resources
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.csproj.GenerateResource.Cache
+C:\Users\rober_000\Dropbox\thingbroker-kinect-handshake\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.csprojResolveAssemblyReference.cache
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.exe
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.pdb
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\bin\Debug\KinectSkeletonViewer.exe
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\bin\Debug\KinectSkeletonViewer.pdb
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\bin\Debug\System.Net.Http.dll
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\bin\Debug\System.Web.Http.dll
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\bin\Debug\System.Net.Http.xml
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\bin\Debug\System.Web.Http.xml
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.csprojResolveAssemblyReference.cache
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\obj\x86\Debug\App.g.cs
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer_MarkupCompile.cache
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.g.resources
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.Properties.Resources.resources
+C:\Users\rober_000\Dropbox\thingbroker-kinect-gesture\KinectSkeletonViewer\obj\x86\Debug\KinectSkeletonViewer.csproj.GenerateResource.Cache

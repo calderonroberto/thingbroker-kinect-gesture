@@ -1,0 +1,11 @@
+﻿<Window x:Class="KinectSkeletonViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Skeleton Viewer" SizeToContent="WidthAndHeight" Loaded="Window_Loaded">
+    <StackPanel>
+        <Canvas Name="skeletonCanvas" Height="480" Width="640" HorizontalAlignment="Center"/>
+        <TextBlock Name="StatusTextBlock" Text="Skeleton Status" HorizontalAlignment="Center" FontSize="40"></TextBlock>
+        <TextBox x:Name="thingId" Text="thingId" HorizontalAlignment="Center" FontSize="20"/>
+        <Button x:Name="setThingId" Content="Set Thing ID" Width="76" Click="setThingId_Click"/>
+    </StackPanel>
+</Window>
